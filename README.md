@@ -8,10 +8,10 @@
 
 - CLASS 1  
 - CLASS 2
-- CLASS 3  
+- CLASS 3+
   
 ## 도전중
-> CLASS 3+  
+
 > CLASS 4
 
 ## 커밋 규칙
